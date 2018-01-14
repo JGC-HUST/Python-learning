@@ -1,4 +1,6 @@
 #zip.py
+#将教程中的os.system()方法改为subprocess.call()方法
+#os字段与方法: os.sep  os.path.exists()  os.mkdir()
 import os
 import time
 import subprocess
